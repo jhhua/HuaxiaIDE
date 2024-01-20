@@ -1,4 +1,4 @@
-# HuaxiaIDE
+# HuaxiaIDE-华夏编程
 Project as a student, 2016-2018, a Chinese open source IDE.
 
 
