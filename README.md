@@ -8,12 +8,12 @@ Project as a student, 2016-2018, a Chinese open source IDE.
 
 案例
 ```
-[Uploading t整数 主函数() 
+整数 主函数() 
 开始 
 打印 ; 
 等待 ; 
 返回 0; 
-结束 est.e…]()
+结束
 ```
 
 
