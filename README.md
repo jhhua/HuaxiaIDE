@@ -21,3 +21,5 @@ Project as a student, 2016-2018, a Chinese open source IDE.
 该程序由QT平台，C/C++语言编写，依赖于原编译器以及C/C++库，
 
 运行前请保证有这些。
+
+原理不复杂，看源代码即可，小儿科
