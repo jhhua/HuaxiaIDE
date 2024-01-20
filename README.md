@@ -18,5 +18,5 @@ Project as a student, 2016-2018, a Chinese open source IDE.
 
 
 ## 说明
-该程序由QT平台，C/C++语言编写，依赖于原编译器以及C/C++库。
+该程序由QT平台，C/C++语言编写，依赖于原编译器以及C/C++库。\n
 运行前请保证有这些。
